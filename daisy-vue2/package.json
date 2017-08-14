@@ -1,0 +1,7 @@
+{
+  "name": "toolkit-daisy",
+  "version": "1.0.0[vue2]",
+  "main": "index.js",
+  "author": "Elvis",
+  "license": "MIT"
+}
